@@ -1,2 +1,3 @@
 prep_venv
 __pycache__
+globals.py
